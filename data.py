@@ -31,7 +31,7 @@ embed = None
 embed_best = None
 
 #trivia-answers
-output_channel = discord.Object(id= '595300313930530833')
+output_channel = discord.Object(id= '633545594111000588')
 
 input_hq_private  = [
     "595300313930530833",
